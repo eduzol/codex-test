@@ -4,6 +4,8 @@ This project is a small Spring Boot microservice built with Java 24 and Spring B
 
 ## Running
 
+From the repository root, start the service with:
+
 ```
 ./mvnw spring-boot:run
 ```
